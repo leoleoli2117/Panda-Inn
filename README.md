@@ -1,2 +1,2 @@
 # Panda-Inn
-This is our Group work for project management and development
+This is our team work for project management and development
