@@ -1,0 +1,6 @@
+H:\Documents\Panda Inn\Panda Inn\PandaInnClasses\bin\Debug\PandaInnClasses.dll
+H:\Documents\Panda Inn\Panda Inn\PandaInnClasses\bin\Debug\PandaInnClasses.pdb
+H:\Documents\Panda Inn\Panda Inn\PandaInnClasses\obj\Debug\PandaInnClasses.csprojAssemblyReference.cache
+H:\Documents\Panda Inn\Panda Inn\PandaInnClasses\obj\Debug\PandaInnClasses.csproj.CoreCompileInputs.cache
+H:\Documents\Panda Inn\Panda Inn\PandaInnClasses\obj\Debug\PandaInnClasses.dll
+H:\Documents\Panda Inn\Panda Inn\PandaInnClasses\obj\Debug\PandaInnClasses.pdb

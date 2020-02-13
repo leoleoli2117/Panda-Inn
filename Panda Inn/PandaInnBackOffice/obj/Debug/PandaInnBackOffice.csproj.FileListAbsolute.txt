@@ -1,0 +1,9 @@
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\bin\Debug\PandaInnBackOffice.exe.config
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\bin\Debug\PandaInnBackOffice.exe
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\bin\Debug\PandaInnBackOffice.pdb
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\obj\Debug\PandaInnBackOffice.csprojAssemblyReference.cache
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\obj\Debug\PandaInnBackOffice.Properties.Resources.resources
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\obj\Debug\PandaInnBackOffice.csproj.GenerateResource.cache
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\obj\Debug\PandaInnBackOffice.csproj.CoreCompileInputs.cache
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\obj\Debug\PandaInnBackOffice.exe
+H:\Documents\Panda Inn\Panda Inn\PandaInnBackOffice\obj\Debug\PandaInnBackOffice.pdb
